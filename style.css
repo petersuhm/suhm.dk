@@ -1,0 +1,58 @@
+/**
+ * TMP, bby!
+ */
+section {
+    height: 600px;
+}
+
+
+
+body {
+    color: #fff;
+    font-family: 'Bree Serif', serif;
+}
+
+footer {
+    background-color: #34495e;
+    padding: 30px 30px;
+}
+
+footer p {
+    text-align: center;
+}
+
+a, a:hover {
+    color: #fff;
+}
+
+h1.logo {
+    color: #fff;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px #34495e;
+}
+
+h1 a, h1 a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+h2.copy {
+    font-size: 54px;
+    margin-top: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 1px #34495e;
+}
+
+.brand-name {
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+}
+
+section.light-blue {
+    background-color: #3498db;
+}
+
+section.dark-blue {
+    background-color: #34495e;
+}
